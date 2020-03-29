@@ -88,9 +88,16 @@ body {
     border-radius: 20px;
     padding: 5px;
     text-align: center;
+    cursor: pointer;
 }
+
+
 
 .btns {
     display: flex;
     justify-content: space-between;
+}
+
+.invisible {
+    display: none;
 }
